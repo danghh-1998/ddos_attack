@@ -1,0 +1,9 @@
+[Unit]
+Description=Bot effects.
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/share/bot/bot.py
+
+[Install]
+WantedBy=multi-user.target

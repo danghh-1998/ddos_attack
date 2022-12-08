@@ -1,4 +1,4 @@
-certifi==2020.4.5.1
+certifi==2022.12.7
 Faker==4.1.0
 netifaces==0.10.9
 pydle==0.9.3
